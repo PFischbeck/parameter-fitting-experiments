@@ -1,0 +1,6 @@
+networkit==10.0
+
+## For run
+filelock
+tqdm
+pathos
